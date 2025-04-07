@@ -1,6 +1,8 @@
 # Banking Data Analysis using MS-SQL
 
-This project analyzes banking data to gain insights based on:
+## 📖 Overview
+
+In this project, we examine a banking dataset containing information about loan applications, the amount funded by banks, and the amount received from borrowers. The goal is to extract meaningful patterns and metrics based on:
 
 - Total Loan Applications  
 - Funded Amount  
